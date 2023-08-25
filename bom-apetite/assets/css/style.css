@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.icon{
+    
+    width: 40%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    background-color: #E38707;
+}
+.nav-buttons{
+    display: flex;
+    gap: 30px;
+    margin-left:75%; 
+    width:fit-content;
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+    margin-top: 15%;
+    width: fit-content;
+    
+}
+
